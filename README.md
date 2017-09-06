@@ -1,7 +1,7 @@
 # torrent-stream
 
-[![Travis Build branch](https://img.shields.io/travis/mafintosh/torrent-stream/master.svg)](https://travis-ci.org/mafintosh/torrent-stream)
-[![Dependency Status](https://david-dm.org/mafintosh/torrent-stream.svg)](https://david-dm.org/mafintosh/torrent-stream) [![devDependency Status](https://david-dm.org/mafintosh/torrent-stream/dev-status.svg)](https://david-dm.org/mafintosh/torrent-stream#info=devDependencies)
+[![Travis Build branch](https://img.shields.io/travis/penandlim/torrent-stream/master.svg)](https://travis-ci.org/penandlim/torrent-stream)
+[![Dependency Status](https://david-dm.org/penandlim/torrent-stream.svg)](https://david-dm.org/penandlim/torrent-stream) [![devDependency Status](https://david-dm.org/penandlim/torrent-stream/dev-status.svg)](https://david-dm.org/penandlim/torrent-stream#info=devDependencies)
 
 The streaming torrent engine that [peerflix](https://github.com/mafintosh/peerflix) uses
 
